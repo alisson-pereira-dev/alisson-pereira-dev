@@ -1,5 +1,5 @@
 Olá, eu sou o Alisson Pereira 👋
-Arquiteto de Soluções IA | Consultor de CRM e Automação | Especialista em Ciência de Dados
+Cientista de Dados | Arquiteto de Soluções IA | Consultor de CRM e Automação 
 Sou um "builder" focado na intersecção entre Inteligência Analítica e Execução Ágil. Meu objetivo é transformar o caos operacional em eficiência automatizada através do paradigma AI-First.
 
 Atualmente na fase final da graduação em Ciência de Dados, utilizo minha base matemática para construir agentes de IA e sistemas de automação resilientes que não apenas "conectam aplicativos", mas que entendem e processam dados em escala.
