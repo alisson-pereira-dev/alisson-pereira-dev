@@ -1,4 +1,4 @@
-### Olá, eu sou o Alisson Pereira 👋
+### Faaaaaaaaala minha fera! Aqui é o Alisson👋
 
 **Cientista de Dados | Arquiteto de Soluções IA | AI-First Builder**
 
