@@ -1,35 +1,53 @@
-Olá, eu sou o Alisson Pereira 👋
-Cientista de Dados | Arquiteto de Soluções IA | Consultor de CRM e Automação 
-Sou um "builder" focado na intersecção entre Inteligência Analítica e Execução Ágil. Meu objetivo é transformar o caos operacional em eficiência automatizada através do paradigma AI-First.
+### Olá, eu sou o Alisson Pereira 👋
 
-Atualmente na fase final da graduação em Ciência de Dados, utilizo minha base matemática para construir agentes de IA e sistemas de automação resilientes que não apenas "conectam aplicativos", mas que entendem e processam dados em escala.
+**Cientista de Dados | Arquiteto de Soluções IA | AI-First Builder**
 
-🛠 Stack Atual & Competências
-Orquestração de IA: n8n (Expert), LangChain, Agentes de IA (Sistemas RAG)
+Trabalho na interseção entre dados, automação e engenharia de agentes de IA. Hoje atuo em uma empresa de inteligência comercial, desenvolvendo aplicações com foco no ecossistema Claude (Claude Code, skills, subagents, hooks, engenharia de contexto, MCP), integradas a um stack mais amplo de automação e infraestrutura.
 
-Desenvolvimento Assistido por IA: Claude Code, Lovable, VS Code, Google Antigravity
+Sou formado em Ciência de Dados e meu trabalho é guiado por um princípio simples: a ferramenta é secundária, a solução é o que importa. Isso me exige aprender algo novo quase todo dia — e é exatamente o que me motiva.
 
-Dados & Lógica: Python, SQL, Machine Learning (Scikit-learn, Pandas)
+---
 
-Estratégia de CRM: HubSpot, Salesforce, Pipedrive (Arquiteto Técnico)
+### 🧠 Como eu trabalho
 
-🚀 Soluções em Destaque (Artefatos em breve)
-Estou migrando meu portfólio para este novo ambiente. Abaixo estão as principais soluções que projeto e executo:
+- **AI-First**: uso IA não como atalho, mas como parte estrutural de como penso e construo soluções.
+- **Agnóstico de ferramenta**: busco a solução certa para o problema, não a solução que já conheço.
+- Desenvolvo **frameworks próprios de trabalho**, seguindo a estrutura de **Spec-Driven Development (SDD)**.
+- Curiosidade intelectual e hiperfoco são minhas principais ferramentas de resolução de problemas.
 
-Extensão de Automação para Google Workspace: Ferramenta personalizada para interações em alta velocidade no navegador e extração de dados via agentes de IA.
+---
 
-Sistema de Compartilhamento de Soluções (Lovable): Plataforma full-stack construída sob os princípios de "Vibe Coding" para distribuição rápida de conhecimento técnico.
+### 🛠 Stack Atual
 
-Plataforma Educativa Inteligente (Claude Code): Ambiente de aprendizagem adaptativo com lógica de resposta inteligente e integrações profundas via API.
+**Ecossistema Claude**
+Claude Code · Skills · Subagents · Hooks · Engenharia de Contexto · MCP (Model Context Protocol)
 
-📊 Por que minha base em Ciência de Dados faz a diferença?
-Diferente de uma automação comum, meus fluxos de trabalho incluem validação de integridade de dados, tomadas de decisão baseadas em probabilidade e monitoramento via IA. Isso garante um ROI mais alto e evita falhas lógicas em ambientes de produção. 
+**Automação & Backend**
+n8n · Supabase · Vercel
 
-📫 Vamos nos conectar
-LinkedIn: alisson-pereira-ds
+**Infraestrutura**
+VPS (hospedagem e deploy de plataformas) · Git · GitHub
 
-Instagram (IA & Influência): @sua_conta_aqui
+**Dados & Fundamentos**
+Python · SQL · Machine Learning (Scikit-learn, Pandas)
 
-E-mail Profissional: alisson.pereira.dev@gmail.com
+---
 
-"A tecnologia só faz sentido quando transforma problemas complexos em soluções simples e funcionais."
+### 🚀 O que eu construo
+
+Aplicações e automações com foco em **inteligência comercial**, unindo:
+- Agentes de IA orquestrados via Claude Code (skills, subagents e MCP para contextos específicos)
+- Backends e bancos de dados com Supabase
+- Automações e integrações via n8n
+- Deploy e hospedagem em Vercel e VPS próprio
+
+Diferente de uma automação comum, meus fluxos são pensados com base em dados — validação de integridade, decisões orientadas a probabilidade e monitoramento ativo, o que reduz falhas em produção e melhora o ROI real das soluções.
+
+---
+
+### 📫 Vamos nos conectar
+
+- LinkedIn: [alisson-pereira-ds](https://linkedin.com/in/alisson-pereira-ds)
+- E-mail: alisson.pereira.dev@gmail.com
+
+> "A tecnologia só faz sentido quando transforma problemas complexos em soluções simples e funcionais."
