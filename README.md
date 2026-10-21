@@ -16,6 +16,8 @@ Sou formado em Ciência de Dados e meu trabalho é guiado por um princípio simp
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alisson-pereira-dev/alisson-pereira-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+###
+
 
 ### 🧠 Como eu trabalho
 
