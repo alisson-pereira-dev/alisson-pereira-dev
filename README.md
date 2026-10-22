@@ -31,12 +31,11 @@ Sou formado em Ciência de Dados e meu trabalho é guiado por um princípio simp
 ### 🛠 Stack
 
 **Ecossistema Claude**
-
-![Claude Code](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude Design](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Design](https://img.shields.io/badge/Claude%20Design-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Skills](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Agents](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Skills](https://img.shields.io/badge/Skills-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Agents](https://img.shields.io/badge/Agents-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Automação, Backend & Deploy**
 
