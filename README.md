@@ -4,7 +4,7 @@
 
 Trabalho na interseção entre dados, automação e engenharia de agentes de IA. Hoje atuo em uma empresa de inteligência comercial, desenvolvendo aplicações com foco no ecossistema Claude (Claude Code, skills, subagents, hooks, engenharia de contexto, MCP), integradas a um stack mais amplo de automação e infraestrutura.
 
-Sou formado em Ciência de Dados e meu trabalho é guiado por um princípio simples: a ferramenta é secundária, a solução é o que importa. Isso me exige aprender algo novo quase todo dia — e é exatamente o que me motiva.
+Sou formado em Ciência de Dados e meu trabalho é guiado por um princípio simples: a ferramenta é secundária, a solução é o que importa. Isso me exige aprender algo novo quase todo dia  e é exatamente o que me motiva.
 
 ---
 
@@ -32,8 +32,11 @@ Sou formado em Ciência de Dados e meu trabalho é guiado por um princípio simp
 
 **Ecossistema Claude**
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Design](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Skills](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Agents](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Automação, Backend & Deploy**
 
