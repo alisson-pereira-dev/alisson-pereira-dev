@@ -31,6 +31,7 @@ Sou formado em Ciência de Dados e meu trabalho é guiado por um princípio simp
 ### 🛠 Stack
 
 **Ecossistema Claude**
+
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude Design](https://img.shields.io/badge/Claude%20Design-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
